@@ -1,0 +1,7 @@
+[core]
+    autostage = true
+    remote = drive_remote
+['remote "drive_remote"']
+    url = gdrive://1DHOiD3a_01LkOVyS9WVp-pladkMwk3h0
+    gdrive_client_id = 291252480748-lnmv6un84hlevdk042gdmo6eggk61cr2.apps.googleusercontent.com
+    gdrive_client_secret = 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
